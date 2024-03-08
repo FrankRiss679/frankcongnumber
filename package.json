@@ -1,0 +1,27 @@
+{
+  "name": "frankcongnumber",
+  "version": "1.0.0",
+  "description": "Library adding open source tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "frankcongnumber": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrankRiss679/frankcongnumber.git"
+  },
+  "homepage": "https://twitter.com/DonnaDorot38631",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "FrankRiss679",
+  "license": "MIT"
+}
