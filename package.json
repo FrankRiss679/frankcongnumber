@@ -1,6 +1,6 @@
 {
   "name": "frankcongnumber",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library adding open source tool",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
+    "thiessensumdegen": "^1.0.0",
     "frankcongnumber": "^1.0.0"
   },
   "repository": {
